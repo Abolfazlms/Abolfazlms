@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 # 💫 About Me:
-I'm Abolfazl Mastaalizadeh.<br>a Programmer!💻 And also i'm CSE student💻📚<br>Interested in Nature!🌲🌹🌴<br>Interested in technologies and computers!💻🖱⌨
+I'm Abolfazl Mastaalizadeh.<br>a Programmer!💻<br> And also i'm CSE student💻<br>Interested in Nature!🌲🌹🌴<br>Interested in technologies and computers!💻
 
 
 ## 🌐 Socials:
