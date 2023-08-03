@@ -17,7 +17,7 @@ my name is Abolfazl Mastaalizadeh.<br>I'm Programmer! And also i'm CSE student.<
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abolfazlms&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
