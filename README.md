@@ -1,7 +1,7 @@
 ## Hi there! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Abolfazl+Mastaalizadeh!;Computer+Programmer+;Web+Developer)](https://git.io/typing-svg)
 
-# 💫 About Me:
+# About Me:
 I'm Abolfazl Mastaalizadeh.<br>A Programmer! And also i'm CES student💻<br>Interested in Nature!🌲🌹🌴<br>Interested in technologies and computers!💻
 
 
