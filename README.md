@@ -19,5 +19,5 @@ I'm Abolfazl Mastaalizadeh.<br>A Programmer! And also i'm CES student💻<br>Int
 ![](https://github-profile-trophy.vercel.app/?username=Abolfazlms&theme=flat)
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
