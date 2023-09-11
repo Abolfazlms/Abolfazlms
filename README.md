@@ -18,6 +18,6 @@ I'm Abolfazl Mastaalizadeh.<br>A Programmer! And also i'm CES student💻<br>Int
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abolfazlms&theme=flat)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+#### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
 
